@@ -29,11 +29,18 @@ body{
     padding: 20px;
     font-family: Helvetica;
     color: white;
+    text-align: center;
+}
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .texto{
     height: 151px;
     background-color: #fcb7af;
+    text-align: justify;
 }
 
 .box_cab-nav-ul{
@@ -87,7 +94,7 @@ body{
     justify-content: center;
     flex-direction: column;
     background-color: #780808;
-    text-align: center;
+    text-align: justify;
     font-size: 18px;
     height: 100vh;
 }
@@ -98,7 +105,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    text-align: center;
+    text-align: justify;
     font-size: 18px;
     height: 100vh;
 }
@@ -147,6 +154,10 @@ body{
      display: flex;
      align-items: center;
      justify-content: center;
+}
+
+.sobre{
+    min-width: 200px;
 }
 
 .accordion {
@@ -233,6 +244,10 @@ body{
     .box_nav-img{
         width: 90px;
         height: 90px;
+    }
+
+    .pagina1{
+        height: 80vh;
     }
 
     .pagina2{
