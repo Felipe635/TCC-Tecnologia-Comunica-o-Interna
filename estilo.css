@@ -212,6 +212,11 @@ p{
 	color: #e7e6e6;
 }
 
+.foto{
+ width: 500px;
+ height: 350px;
+}
+
 .um{
 	grid-area: um;
 	background-color: #fcb7af;
@@ -299,6 +304,11 @@ p{
 	.img{
 		width: 350px;
 	}
+
+	.foto{
+     width: 350px;
+     height: 250px;
+    }
 
     .texto{
         background-color: #fcb7af;
