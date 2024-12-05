@@ -115,6 +115,11 @@ p{
     height: 900px;
 }
 
+.pagina4{
+    text-align: center;
+    height: 900px;
+}
+
 .pagina-swot{
      display: flex;
      justify-content: center;
@@ -269,6 +274,11 @@ p{
     .pagina3{
         text-align: center;
         height: 45vh;
+    }
+
+    .pagina4{
+        text-align: center;
+        height: 100vh;
     }
 
     .pagina-swot{
